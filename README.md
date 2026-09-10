@@ -1,11 +1,11 @@
 # Informacions generals pel curs 2026-27
 
-- [Enllaç inscripció](https://t.me/+FPShRkqYSkE3NGFk) grup Telegram 1r DAM (igual per BDs i Programació).
+- <a href="https://t.me/+FPShRkqYSkE3NGFk" target="_blank">Enllaç inscripció</a> grup Telegram 1r DAM (igual per BDs i Programació).
 Nota: Intenteu usar el grup de dilluns a divendres, a no ser que sigue per causa major
 
 - [Enllaç enquesta inicial](https://forms.gle/V2rq6THkka8twuTr8) (igual per BDs i Programació).
 
-- Instruccions pels alumnes nous (MP0484 i MP0485) curs 2026-27:
+<!-- # Instruccions pels alumnes que no estiguen el primer dia de classe (MP0484 i MP0485) curs 2026-27:
 
 Coses que heu de fer. Si teniu algun problema el podeu consultar pel grup de Telegram o pel privat:
 
@@ -26,4 +26,4 @@ git config --global user.mail "El vostre email que vau registrar al compte del g
 git config --global init.defaultBranch main
 
 + Intenteu generar-vos una clau SSH i afegir-la al SSH agent, tal com explica el [següent post](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) (heu d'usar el terminal de l'Ubuntu). Sigueu molt curosos, feu cada pas en ordre i mireu bé què s'ha de fer. Després de generar la clau heu d'afegir-la al github seguint l'enllaç del punt 4 "Adding a new SSH key to your GitHub account."
-
+-->
