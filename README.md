@@ -13,7 +13,7 @@ Coses que heu de fer. Si teniu algun problema el podeu consultar pel grup de Tel
 + Contestar l'enquesta inicial: si encara no teniu compte @iesebre.com poseu nomcognom1cognom2@iesebre.com a la casella corresponent del formulari
 + Afegir-vos al grup del Telegram
 + Registrar-vos a l'ERDPlus
-+ Registrar-vos al JOEL: poseu el vostre nom d'usuari de l'iesebre (per exemple ssabate), llenguatge per defecte seleccioneu Java 11, i equips afiliats Institut de l'Ebre i IEDAM1MP0485_2526
++ Registrar-vos al JOEL: poseu el vostre nom d'usuari de l'iesebre (per exemple ssabate), llenguatge per defecte seleccioneu Java 11, i equips afiliats Institut de l'Ebre i IEDAM1MP0485_2627
 + Registrar-vos al GITHUB: poseu el vostre nom d'usuari de l'iesebre (per exemple ssabate), i l'email de l'iesebre, si ja el sabeu (espereu a tindre'l per registrar-vos) 
 + Sol·liciteu una llicència educativa del Github+Jetbrains al [següent enllaç](https://education.github.com/pack?utm_source=github+jetbrains). (esperar a quan tingueu la targeta del centre!!)
 + Instal·leu-vos la Jetbrains Toolbox App . Una vegada instal·lada esta app, executeu-la i instal·leu-vos l'IntelliJ IDEA Community Edition.
