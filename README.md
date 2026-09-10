@@ -1,6 +1,6 @@
 # Informacions generals pel curs 2026-27
 
-- <a href="https://t.me/+FPShRkqYSkE3NGFk" target="_blank">Enllaç inscripció</a> grup Telegram 1r DAM (igual per BDs i Programació).
+- [Enllaç inscripció](https://t.me/+FPShRkqYSkE3NGFk) grup Telegram 1r DAM (igual per BDs i Programació).
 Nota: Intenteu usar el grup de dilluns a divendres, a no ser que sigue per causa major
 
 - [Enllaç enquesta inicial](https://forms.gle/V2rq6THkka8twuTr8) (igual per BDs i Programació).
