@@ -8,7 +8,7 @@ Nota: Intenteu usar el grup de dilluns a divendres, a no ser que sigue per causa
 - Registrar-vos al GITHUB: poseu el vostre nom d'usuari de l'iesebre (per exemple ssabate), i l'email de l'iesebre, si ja el sabeu (espereu a tindre'l per registrar-vos) 
 
 - Posar el vostre nom d'usuari del github al costat del vostre nom al [següent document](https://docs.google.com/spreadsheets/d/1Zu-LKVXVsK8Iu40J5FXQRmi34Bpa83ITw6oJfM30ex8/edit?usp=sharing)
-- Prova primera tasca: https://classroom50.org/IESEBRE/prova-classroom-50/assignments/primera-prova-en-alumnes/accept
+- Prova primera tasca: https://classroom50.org/IESEBRE/mp0484-bbdd-26-27/assignments/primera-tasca-bbdd-de-prova/accept
 
 <!-- # Instruccions pels alumnes que no estiguen el primer dia de classe (MP0484 i MP0485) curs 2026-27:
 
