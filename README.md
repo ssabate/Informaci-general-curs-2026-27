@@ -5,6 +5,10 @@ Nota: Intenteu usar el grup de dilluns a divendres, a no ser que sigue per causa
 
 - [Enllaç enquesta inicial](https://forms.gle/V2rq6THkka8twuTr8) (igual per BDs i Programació).
 
+- Registrar-vos al GITHUB: poseu el vostre nom d'usuari de l'iesebre (per exemple ssabate), i l'email de l'iesebre, si ja el sabeu (espereu a tindre'l per registrar-vos) 
+
+- Posar el vostgre nom d'usuari del github al costat del vostre nom al [següent document](https://docs.google.com/spreadsheets/d/1Zu-LKVXVsK8Iu40J5FXQRmi34Bpa83ITw6oJfM30ex8/edit?usp=sharing)
+
 <!-- # Instruccions pels alumnes que no estiguen el primer dia de classe (MP0484 i MP0485) curs 2026-27:
 
 Coses que heu de fer. Si teniu algun problema el podeu consultar pel grup de Telegram o pel privat:
