@@ -13,10 +13,13 @@ Nota: Intenteu usar el grup de dilluns a divendres, a no ser que sigue per causa
 
 - Executeu les següents comandes al terminal del vostre linux Ubuntu:
 
-git config --global user.name "El vostre nom" 
+git config --global user.name "El vostre nom"
+
 git config --global user.mail "El vostre email que vau registrar al compte del github"
+
 git config --global init.defaultBranch main
 
+- Intenteu generar-vos una clau SSH i afegir-la al SSH agent, tal com explica el [següent post](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) (heu d'usar el terminal de l'Ubuntu). Sigueu molt curosos, feu cada pas en ordre i mireu bé què s'ha de fer. Després de generar la clau heu d'afegir-la al github seguint l'enllaç del punt 4 "Adding a new SSH key to your GitHub account."
 
 <!-- # Instruccions pels alumnes que no estiguen el primer dia de classe (MP0484 i MP0485) curs 2026-27:
 
