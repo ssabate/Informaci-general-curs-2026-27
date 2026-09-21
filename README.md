@@ -9,10 +9,8 @@ Nota: Intenteu usar el grup de dilluns a divendres, a no ser que sigue per causa
 
 - Posar el vostre nom d'usuari del github al costat del vostre nom al [següent document](https://docs.google.com/spreadsheets/d/1Zu-LKVXVsK8Iu40J5FXQRmi34Bpa83ITw6oJfM30ex8/edit?usp=sharing)
 
-- Instal·leu-vos la Jetbrains Toolbox App . Una vegada instal·lada esta app, executeu-la i instal·leu-vos l'IntelliJ IDEA Community Edition.
+- Instal·leu-vos la Jetbrains Toolbox App (curs MOODLE MP0485, secció "Intellij IDEA"). Una vegada instal·lada esta app, executeu-la i instal·leu-vos l'IntelliJ IDEA.
   
-- Prova primera tasca: https://classroom50.org/IESEBRE/mp0484-bbdd-26-27/assignments/primera-tasca-bbdd-de-prova/accept
-
 - Executeu les següents comandes al terminal del vostre linux Ubuntu:
 
 git config --global user.name "El vostre nom"
@@ -23,6 +21,9 @@ git config --global init.defaultBranch main
 
 - Intenteu generar-vos una clau SSH i afegir-la al SSH agent, tal com explica el [següent post](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) (heu d'usar el terminal de l'Ubuntu). Sigueu molt curosos, feu cada pas en ordre i mireu bé què s'ha de fer. Després de generar la clau heu d'afegir-la al github seguint l'enllaç del punt 4 "Adding a new SSH key to your GitHub account."
 
+- Prova primera tasca del Classroom50: https://classroom50.org/IESEBRE/mp0484-bbdd-26-27/assignments/primera-tasca-bbdd-de-prova/accept
+
+- Trobareu els exemples de codi de classe de programació al [següent enllaç](https://github.com/IESEBRE/Projectes_MP0485_2026-2027).
 <!-- # Instruccions pels alumnes que no estiguen el primer dia de classe (MP0484 i MP0485) curs 2026-27:
 
 Coses que heu de fer. Si teniu algun problema el podeu consultar pel grup de Telegram o pel privat:
