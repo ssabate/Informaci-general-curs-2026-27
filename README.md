@@ -9,6 +9,8 @@ Nota: Intenteu usar el grup de dilluns a divendres, a no ser que sigue per causa
 
 - Posar el vostre nom d'usuari del github al costat del vostre nom al [següent document](https://docs.google.com/spreadsheets/d/1Zu-LKVXVsK8Iu40J5FXQRmi34Bpa83ITw6oJfM30ex8/edit?usp=sharing)
 
+- Instal·leu-vos la Jetbrains Toolbox App . Una vegada instal·lada esta app, executeu-la i instal·leu-vos l'IntelliJ IDEA Community Edition.
+  
 - Prova primera tasca: https://classroom50.org/IESEBRE/mp0484-bbdd-26-27/assignments/primera-tasca-bbdd-de-prova/accept
 
 - Executeu les següents comandes al terminal del vostre linux Ubuntu:
