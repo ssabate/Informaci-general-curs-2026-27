@@ -27,6 +27,9 @@ git config --global init.defaultBranch main
 
 - Registrar-vos al [JOEL](https://jo-el.es/): poseu el vostre nom d'usuari de l'iesebre (per exemple ssabate), llenguatge per defecte seleccioneu Java 25, i equips afiliats Institut de l'Ebre i IEDAM1MP0485_2627
 
+- Registrar-vos a l'[ERDPlus](https://erdplus.com/)
+
+
 <!-- # Instruccions pels alumnes que no estiguen el primer dia de classe (MP0484 i MP0485) curs 2026-27:
 
 Coses que heu de fer. Si teniu algun problema el podeu consultar pel grup de Telegram o pel privat:
